@@ -1,3 +1,4 @@
+/* eslint-disable */
 import axious from 'axious';
 
 const instance = axious.create({

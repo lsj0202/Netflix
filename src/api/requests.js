@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 const requests = {
     fetchNowPlaying : "movie/now_playing",
     fetchNetflixOriginals: "/discover/tv?with_networks=213",
@@ -11,3 +13,4 @@ const requests = {
 }
 
 export default requests;
+
