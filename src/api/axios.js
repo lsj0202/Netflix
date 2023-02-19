@@ -1,10 +1,10 @@
 /* eslint-disable */
-import axious from 'axious';
+import axios from 'axios';
 
-const instance = axious.create({
+const instance = axios.create({
     baseURL : "https://api.themoviedb.org/3",
     params:{
-        api_key: "886dba6c33e264d34c0abd935132f119",
+        api_key: "d9edce31ccd7a0758a88f4fa29b7fb56",
         language: "ko-KR",
     },
 });
