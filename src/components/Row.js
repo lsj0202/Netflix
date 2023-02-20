@@ -20,7 +20,9 @@ function Row({ title, fetchUrl, id, isLargeRow }) {
 			<h2>{title}</h2>
 			<div className='slider'>
 				<div className='slider__arrow-left'>
-					<span className='arrow'>{"<"}</span>
+					<span className='arrow' onClick={() => {
+						document.getElementById(id).scrollLeft -= innerWidth - 80;
+					}}>{"<"}</span>
 				</div>
 
 				<div id={id} className='row__posters'>
@@ -34,7 +36,9 @@ function Row({ title, fetchUrl, id, isLargeRow }) {
 					))};
 				</div>
 				<div className='slider__arrow-right'>
-					<span className='arrow'>{'>'}</span>
+					<span className='arrow' onClick={() => {
+						document.getElementById(id).scrollLeft += innerWidth - 80;
+					}}>{'>'}</span>
 				</div>
 			</div>
 		</section>
