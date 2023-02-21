@@ -12,6 +12,14 @@ function Footer() {
                     <A.FooterLink href='https://help.netflix.com/ko/node/412'>고객센터</A.FooterLink>
                     <A.FooterLink href='https://help.netflix.com/ko/node/412'>미디어 센터</A.FooterLink>
                     <A.FooterLink href='https://help.netflix.com/ko/node/412'>이용 약관</A.FooterLink>
+                    <A.FooterLink href='https://help.netflix.com/ko/node/412'>넷플릭스 소개</A.FooterLink>
+                    <A.FooterLink href='https://help.netflix.com/ko/node/412'>고객센터</A.FooterLink>
+                    <A.FooterLink href='https://help.netflix.com/ko/node/412'>미디어 센터</A.FooterLink>
+                    <A.FooterLink href='https://help.netflix.com/ko/node/412'>이용 약관</A.FooterLink>
+                    <A.FooterLink href='https://help.netflix.com/ko/node/412'>넷플릭스 소개</A.FooterLink>
+                    <A.FooterLink href='https://help.netflix.com/ko/node/412'>고객센터</A.FooterLink>
+                    <A.FooterLink href='https://help.netflix.com/ko/node/412'>미디어 센터</A.FooterLink>
+                    <A.FooterLink href='https://help.netflix.com/ko/node/412'>이용 약관</A.FooterLink>
                 </A.FooterLinkContent>
                 <A.FooterDescContainer>
                     <A.FooterDescRights>
